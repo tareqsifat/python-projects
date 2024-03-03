@@ -1,0 +1,4 @@
+database.ini
+settings.py
+.env
+/__pycache__/*

@@ -1,0 +1,11 @@
+pydub
+python-dotenv
+librosa
+cachetools
+opencv-python
+configparser
+psycopg2-binary
+pysftp
+matplotlib
+scikit-image
+noisereduce
